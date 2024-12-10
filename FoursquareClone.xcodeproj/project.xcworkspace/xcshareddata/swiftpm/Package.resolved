@@ -1,0 +1,51 @@
+{
+  "originHash" : "5f7e7742d468a556ad47778828907203dcbeb642a96bc92dadf32b83b5b2eb95",
+  "pins" : [
+    {
+      "identity" : "bolts-objc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Bolts-ObjC.git",
+      "state" : {
+        "revision" : "1eee96ad3bcfc8964c0a5815ce94f491eb6ac8c2",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "bolts-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BoltsFramework/Bolts-Swift.git",
+      "state" : {
+        "revision" : "d8c07eee2045a13f34330c0a4664053b5176e3f0",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "parse-sdk-ios-osx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-SDK-iOS-OSX",
+      "state" : {
+        "revision" : "0b9b13502a775f0f09aa3a46db22a6c64e68a344",
+        "version" : "4.1.2"
+      }
+    },
+    {
+      "identity" : "parse-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-Swift",
+      "state" : {
+        "revision" : "dc7666f774755be333f48f25c4d8bead0a1a6877",
+        "version" : "4.14.2"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    }
+  ],
+  "version" : 3
+}
