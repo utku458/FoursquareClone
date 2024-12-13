@@ -17,9 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
        
         
         let configuration = ParseClientConfiguration { ParseMutableClientConfiguration in
-            ParseMutableClientConfiguration.applicationId = "5ux22XnsUcq77QGyZGKpZJP0N7QshDcXdejnUcoR"
-            ParseMutableClientConfiguration.clientKey = "CwPli0HK6wBsfAESCeJbEg2M9kAy4FPC9ZvXEDYA"
-            ParseMutableClientConfiguration.server = "https://parseapi.back4app.com/"
+           //PARSE API KEYS
             
             
         
